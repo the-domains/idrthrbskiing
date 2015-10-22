@@ -1,0 +1,23 @@
+name: idrthrbskiing
+favicon: null
+layout_spectrum: 0.8413252017926425
+typography_spectrum: 0.24078710400499403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5173506992869079
+  lightness: 0.462534517981112
+  saturation: 0.9755283012054861
+  rhythmicContrast: 0.6576041567604989
+purpose: []
